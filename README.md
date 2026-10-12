@@ -17,4 +17,6 @@
 ---
 
 ### 📩 Vamos nos conectar?
+- 💼 [Meu LinkedIn](https://linkedin.com)
 - ✉️ Email: nattydur@gmail.com
+-
