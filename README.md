@@ -1,16 +1,20 @@
-## Hi there 👋
+### Olá, eu sou a Renata Durães! 👋
 
-<!--
-**renataduraes/renataduraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Estudante de *Técnico em Desenvolvimento de Sistemas* no IF Sudeste MG.
+- 💻 Desenvolvendo projetos práticos com foco em lógica, algoritmos e boas práticas.
+- 🌱 No momento estou aprendendo: Git, GitHub e as tecnologias base do curso.
+- 🎯 Meu objetivo é evoluir como programadora e criar soluções reais através do código.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="left">
+  <img src="https://jsdelivr.net" height="40" alt="git logo" />
+  <img src="https://jsdelivr.net" height="40" alt="github logo" />
+</div>
+
+---
+
+### 📩 Vamos nos conectar?
+- ✉️ Email: nattydur@gmail.com
